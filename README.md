@@ -9,7 +9,12 @@ This repository hosts the laboratory exercises and supporting materials for the 
 
 ### `gnn_lab/`
 This directory contains the code presented for the **second laboratory session** dedicated to **Graph Neural Networks (GNNs)**, and solutions to the exercises.
-You can enjoy the notebook in colab clicking over the badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_LINK_HERE)
+You can enjoy the notebook in colab clicking over the badge:
+
+<a target="_blank" href="https://colab.research.google.com/github/SPAICOM/spml-lab/blob/main/gnn_lab/gnn_lab.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 
 Contents:
 
